@@ -1,0 +1,98 @@
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2022.0(3)[r115]    *
+***************************************	 
+RunnerLoadGame: C:\Users\strip\OneDrive\Documents\coding misc\Lancerlympics\Lancerlympics\data.win
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\strip\OneDrive\Documents\coding misc\Lancerlympics\Lancerlympics\
+#########################################################################
+RunnerLoadGame() - C:\Users\strip\OneDrive\Documents\coding misc\Lancerlympics\Lancerlympics\data.win
+YYG Game launching. Game file: C:\Users\strip\OneDrive\Documents\coding misc\Lancerlympics\Lancerlympics\data.win
+Checking if INIFile exists at C:\Users\strip\OneDrive\Documents\coding misc\Lancerlympics\Lancerlympics/options.ini
+INIFile C:\Users\strip\OneDrive\Documents\coding misc\Lancerlympics\Lancerlympics/options.ini Exists, loading....
+Reading File C:\Users\strip\OneDrive\Documents\coding misc\Lancerlympics\Lancerlympics\data.win
+Loaded File C:\Users\strip\OneDrive\Documents\coding misc\Lancerlympics\Lancerlympics\data.win(66952566)
+IFF wad found
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\strip\AppData\Local\DELTARUNE\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Resizing swap chain...
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 00000000039A3060, 66952566
+Process Chunk: GEN8   1312  (0.00MB)
+Process Chunk: OPTN   88  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   56  (0.00MB)
+Process Chunk: SOND   13816  (0.01MB)
+Audio_Load()
+Process Chunk: AGRP   24  (0.00MB)
+AudioGroup_Load()
+Process Chunk: SPRT   444568  (0.42MB)
+Process Chunk: BGND   80728  (0.08MB)
+Process Chunk: PATH   1176  (0.00MB)
+Process Chunk: SCPT   19800  (0.02MB)
+Process Chunk: GLOB   3128  (0.00MB)
+Process Chunk: SHDR   26072  (0.02MB)
+Process Chunk: FONT   251944  (0.24MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   569032  (0.54MB)
+Process Chunk: FEDS   8  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   4465864  (4.26MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: TPAG   247992  (0.24MB)
+Process Chunk: TGIN   14168  (0.01MB)
+Process Chunk: CODE   5016248  (4.78MB)
+Process Chunk: VARI   357192  (0.34MB)
+Process Chunk: FUNC   134296  (0.13MB)
+Process Chunk: FEAT   56  (0.00MB)
+Process Chunk: STRG   2003800  (1.91MB)
+Process Chunk: TXTR   4495192  (4.29MB)
+Process Chunk: AUDO   48805646  (46.54MB)
+Audio_WAVs()
+PrepareGame()
+Script_Prepare() 
+TimeLine_Prepare() 
+Object_Prepare() 
+Preparing 1330 objects:
+Room_Prepare() 
+InitGraphics() 
+Finished PrepareGame() 
+Run_Start
+Audio group 1 -> Loading...
+Audio_WAVs()
+Audio group 1 -> Loaded
+audio_create_stream : could not file file 'mus/legend.ogg'
+Error: No sound found for asset index -1
+Resizing fullscreen window...Resizing swap chain...
+audio_destroy_stream : Invalid stream id: -1
+Unsetting previous scheduler resolution of 1
